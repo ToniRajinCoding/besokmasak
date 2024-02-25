@@ -1,4 +1,4 @@
-package com.example.besokmasak
+package com.example.besokmasak.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

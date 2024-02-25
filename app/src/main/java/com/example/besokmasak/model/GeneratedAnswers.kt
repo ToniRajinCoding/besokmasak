@@ -1,4 +1,4 @@
-package com.example.besokmasak.entity
+package com.example.besokmasak.model
 
 
 data class GeneratedAnswer(

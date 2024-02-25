@@ -1,7 +1,8 @@
-package com.example.besokmasak
+package com.example.besokmasak.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.besokmasak.R
 
 class RecipeListActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
